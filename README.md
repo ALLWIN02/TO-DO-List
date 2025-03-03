@@ -16,7 +16,7 @@ A simple and interactive **To-Do List** application built using **HTML, CSS, Jav
 ### HTML, CSS, JavaScript Version:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/ALLWIN02/todo-list.git
    ```
 2. Open `index.html` in a browser.
 
